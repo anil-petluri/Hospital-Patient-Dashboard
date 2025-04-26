@@ -2,10 +2,12 @@
 
 ![image](https://github.com/user-attachments/assets/ec21bc07-7012-40cc-a764-3e0eddb680a2)
 
+**Overview:**
 This project delivers an in-depth analysis of hospital patient services and sales data, visualized through an interactive Power BI dashboard.
 The goal is to uncover insights into patient management, departmental sales, treatment trends, and optimize operational efficiency.
 
 🎯 **Project Objective**
+
 To build a comprehensive Health Care Management Dashboard by:
 
 Monitoring patient services, departmental performance, and revenue.
@@ -15,11 +17,13 @@ Identifying bottlenecks in patient handling.
 Improving strategic decision-making using data-driven insights.
 
 🛠 **Tools and Technologies**
-Microsoft Excel: Source data for patient and hospital management details.
 
-Power BI: Data modeling, analysis, and visualization.
+**Microsoft Excel:** Source data for patient and hospital management details.
+
+**Power BI:** Data modeling, analysis, and visualization.
 
 📊 **Key Metrics and KPIs**
+
 **Total Patients:** Number of patients handled by the hospital.
 
 **Total Revenue (Sales):** Income generated from different departments.
@@ -35,6 +39,7 @@ Power BI: Data modeling, analysis, and visualization.
 **Treatment and Consultation Trends:** Track which treatments or consultations generate the most revenue.
 
 📈 **Dashboard Features**
+
 **Department-wise Sales Analysis:** Understand which departments contribute most to revenue.
 
 **Patient Demographics:** Age and gender-based patient statistics.
